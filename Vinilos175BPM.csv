@@ -9,7 +9,111 @@ NFC;TITULO;ALBUM;ESTRUCTURA;TIPO;PITCH;UBI;CARATULA
 1q2w3em;A2 Base Over;Buenri with Ruboy - Game Over 3;4i+6h1+2s1+8h2+1s2-8f;Base;2,84;5-016;5-016.png
 1q2w3em;B1 Game Over I - Vibrations;Buenri with Ruboy - Game Over 3;2i+4h1+4s1+6h2+4s2-12f;Melodia;3,42;5-016;5-016.png
 1q2w3em;B2 Game Over II - Start;Buenri with Ruboy - Game Over 3;4i+6h1+3s1+4h2+2s2+2h3+6s3-10f;Melodia;5,90;5-016;5-016.png
-1q2w3ev;A1 Game over 3;Buenri with Ruboy - Game Over 3;"4i+6h1+(16""+6)s1+6h2+(12""+28""+8"")s2-6f";Melodia;2,86;5-016;5-016.png
-1q2w3ev;A2 Base Over;Buenri with Ruboy - Game Over 3;4i+6h1+2s1+8h2+1s2-8f;Base;2,84;5-016;5-016.png
-1q2w3ev;B1 Game Over I - Vibrations;Buenri with Ruboy - Game Over 3;2i+4h1+4s1+6h2+4s2-12f;Melodia;3,42;5-016;5-016.png
-1q2w3ev;B2 Game Over II - Start;Buenri with Ruboy - Game Over 3;4i+6h1+3s1+4h2+2s2+2h3+6s3-10f;Melodia;5,90;5-016;5-016.png
+MS001;A1. Ruboy Vs Aier - Rita La Cantaora;Ruboy Records & Pure Makina - Makina Station Reconnected EP1;"4i+(4+8"")h1+6s1+4h2+1s2+6h3+2s3-8f";cantada;2,94;5-001;5-001.png
+MS001;A2. Ruboy vs Aier - Aleluya;Ruboy Records & Pure Makina - Makina Station Reconnected EP1;2i+4h1+4s1+4h2+2s2+2h3+8s3-8f;melodia;-0,02;5-001;5-001.png
+MS001;B1. Insert Coin - The Ultimate;Ruboy Records & Pure Makina - Makina Station Reconnected EP1;2i+6h1+4s1+4h2+1s2+4h3+6s3-8f;melodia;2,82;5-001;5-001.png
+MS001;B2. Ruboy Vs Caesar - Overtrack 3;Ruboy Records & Pure Makina - Makina Station Reconnected EP1;4i+4h1+4s1+4h2+2s2+4h3+8s3-8f;base;2,80;5-001;5-001.png
+MS002;A1. Insert Coin - Makina Station;Ruboy Records & Pure Makina - Makina Station Reconnected EP2;2i+4h1+4s1+4h2+2s2+4h3+6s3-8f;melodia;2,96;5-002;5-002.png
+MS002;A2. DJ Puchy - Overclock;Ruboy Records & Pure Makina - Makina Station Reconnected EP2;3i+3h1+3s1+4h2+2s2+2h3+4s3-8f;melodia;0,60;5-002;5-002.png
+MS002;B1. Ruboy - Makina A Muerte;Ruboy Records & Pure Makina - Makina Station Reconnected EP2;;;2,96;5-002;5-002.png
+MS002;B2. Aier vs Nos - The New Legends;Ruboy Records & Pure Makina - Makina Station Reconnected EP2;3i+6h1+2s1+4h2+2s2+4h3+5s3-8f;melodia;1,72;5-002;5-002.png
+MS003;A1. Dj Sami & Dj Kubik - Mistake 101;Ruboy Records & Pure Makina - Vinyl Factory;6i+4h1+4s1+4h2+2s2+4h3+2s3-10f;melodia rh1;2,96;5-003;5-003.png
+MS003;A2. DJ Caesar 9114 vs Aier - Wonderful;Ruboy Records & Pure Makina - Vinyl Factory;"4i+(4+16"")h1+3s1+4h2+2s2+(4+16"")h3+3s3-8f";melodia;2,96;5-003;5-003.png
+MS003;B1. Ruboy vs Radium - End of The Universe;Ruboy Records & Pure Makina - Vinyl Factory;4i+4h1+8s1+4h2+2s2+4h3+7s3-8f;melodia;2,96;5-003;5-003.png
+MS003;B2. Ruboy vs Aier - Microwaves;Ruboy Records & Pure Makina - Vinyl Factory;4i+4h1+4s1+4h2+2s2+4h3+8s3-8f;base;2,96;5-003;5-003.png
+MS004;A1. DJ Sami & DJ Q-byk - MSK The Union;Ruboy Records & Pure Makina - The Union;"4i+8h1+(2+8""+7)s1+10h2+(4+8"")s2-10f";melodia;6,06;5-004;5-004.png
+MS004;A2. Aier vs Barok - Ayra;Ruboy Records & Pure Makina - The Union;2i+4h1+4s1+4h2+2s2+2h3+6s3-8f;melodia;1,74;5-004;5-004.png
+MS004;B1. Saiko Vs Goham - Kick Some Ass;Ruboy Records & Pure Makina - The Union;2i+4h1+4s1+4h2+2s2+4h3+6s3-8f;melodia;0,00;5-004;5-004.png
+MS004;B2. Ruboy - Overdose Base;Ruboy Records & Pure Makina - The Union;3i+4h1+2s1+4h2+4s2-8f;base;2,94;5-004;5-004.png
+MS005;A1. Ruboy vs Radium - Impackt;Ruboy Records & Pure Makina - Portal Makina EP1;1i+4h1+4s1+4h2+2s2+4h3+8s3-8f;melodia;0,00;5-005;5-005.png
+MS005;A2. DJ Aier - QV;Ruboy Records & Pure Makina - Portal Makina EP1;3i+2h1+2s1+4h2+2s2+2h3+2s3-8f;melodia;0,58;5-005;5-005.png
+MS005;B1. Ruboy - Reconnection;Ruboy Records & Pure Makina - Portal Makina EP1;2i+6h1+4s1+4h2+2s2+4h3+6s3-10f;melodia;2,94;5-005;5-005.png
+MS005;B2. SPeeDX - Make it Hardcore;Ruboy Records & Pure Makina - Portal Makina EP1;4i+4h1+4s1+4h2+2s2+4h3+8s3-8f;base;6,06;5-005;5-005.png
+MS006;A1. Ruboy vs Radium - Sensorial;Ruboy Records & Pure Makina - Invictus;4i+4h1+4s1+4h2+1s2+4h3+6s3-8f;melodia;2,94;5-006;5-006.png
+MS006;A2. Puchy vs Johnny Pistolas - Sensations;Ruboy Records & Pure Makina - Invictus;2i+4h1+3s1+4h2+2s2+2h3+4s3-8f;melodia;0,58;5-006;5-006.png
+MS006;B1. Ruboy vs Nos - Wake Up;Ruboy Records & Pure Makina - Invictus;4i+4h1+8s1+4h2+2s2+4h3+4s3-8f;melodia;2,94;5-006;5-006.png
+MS006;B2. Ruboy - Speed Fire;Ruboy Records & Pure Makina - Invictus;2i+4h1+3s1+10h2+4s2-8f;base;6,06;5-006;5-006.png
+MS007;A1. Ruboy & Z3D - Magic Field;Ruboy vs Z3d - Shocking EP;4i+4h1+6s1+4h2+1s2+4h3+8s3-8f;melodia;4,16;5-007;5-007.png
+MS007;A2. Ruboy & Z3D - Plastic Explosive;Ruboy vs Z3d - Shocking EP;4i+4h1+4s1+4h2+2s2+4h3+6s3-8f;base;2,94;5-007;5-007.png
+MS007;B1. Ruboy Vs Z3D - One Nation;Ruboy vs Z3d - Shocking EP;"2i+6h1+(16""+6)s1+4h2+2s2+4h3+6s3-8f";melodia;4,16;5-007;5-007.png
+MS007;B2. Bonus Track - Puchy vs Aier - Impulsive ;Ruboy vs Z3d - Shocking EP;1i+2h1+1s1+6h2+4s2-7f;base;4,16;5-007;5-007.png
+MS008;A1. Ruboy vs Kryvel - It´s Criminal;Ruboy vs Kryvel - Souls Of Light;4i+4h1+4s1+4h2+2s2+4h3+6s3-8f;melodia;4,16;5-008;5-008.png
+MS008;A2. Ruboy vs Kryvel - Bullet Base;Ruboy vs Kryvel - Souls Of Light;4i+4h1+4s1+10h2+6s2-8f;base;4,16;5-008;5-008.png
+MS008;B1. Ruboy Vs Kryvel - Collective Paranoia;Ruboy vs Kryvel - Souls Of Light;"4i+4h1+(8""+5)s1+4h2+2s2+4h3+6s3-8f";melodia;4,16;5-008;5-008.png
+MS008;B2. Sami & Q-byk - Sadaku;Ruboy vs Kryvel - Souls Of Light;4i+3h1+5s1+4h2+2s2+4h3+4s3-8f;melodia;4,16;5-008;5-008.png
+MS009;A1. Puchy + Barris - La Llave De La Fiesta;Ruboy Records & Pure Makina - Reaction EP;0i+8h1+8s1+4h2+2s2+4h3+8s3-8f;melodia;2,94;5-009;5-009.png
+MS009;A2. Ruboy - Wild Base;Ruboy Records & Pure Makina - Reaction EP;2i+4h1+4s1+4h2+2s2+4h3+4s3-8f;base;0,00;5-009;5-009.png
+MS009;B1. Ruboy - Maximum;Ruboy Records & Pure Makina - Reaction EP;4i+4h1+5s1+4h2+2s2+4h3+8s3-8f;melodia;0,00;5-009;5-009.png
+MS009;B2. Puchy vs Per - Two Friends;Ruboy Records & Pure Makina - Reaction EP;"1i+4h1+4s1+4h2+2s2+2h3+(16""+4)s3-8f";melodia;2,94;5-009;5-009.png
+MS010;A1. P-ke & Danuki - Lacrimosa;Msk Makina - Friends EP Vol 1;"4i+4h1+(8""+4+8""+6)s1-14f";melodia;2,94;5-010;5-010.png
+MS010;A2. Javi Guerrero & Jardi - Dream Of Reality;Msk Makina - Friends EP Vol 1;"4i+4h1+(8""+4)s1+4h2+2s2+4h3+6s3-8f";melodia;6,06;5-010;5-010.png
+MS010;B1. Sami & Q-byk - Danita 7_17;Msk Makina - Friends EP Vol 1;8i+8h1+2s1-8f;melodia;2,94;5-010;5-010.png
+MS010;B2. MSK Friends - Acid Family;Msk Makina - Friends EP Vol 1;2i+4h1+3s1+12h2+2s2-8f;base;1,76;5-010;5-010.png
+MS011;A1. Faby & Kostis - Let There Be Light;DJ Faby & DJ Kostis - Resurface;4i+4h1+1s1+4h2+5s2+4h3+2s3+6h4+2s4-8f;melodia;6,06;5-011;5-011.png
+MS011;A2. Faby & Kostis - FROM N.Y TO L.A;DJ Faby & DJ Kostis - Resurface;4i+4h1+2s1+6h2+4s2-8f;jumper;-13,58;5-011;5-011.png
+MS011;B1. 303 Donatelly;DJ Faby & DJ Kostis - Resurface;4i+4h1+4s1+4h2+2s2+4h3+5s3-8f;base;4,16;5-011;5-011.png
+MS011;B2. Faby & Kostis - We Don´t Give a Shit;DJ Faby & DJ Kostis - Resurface;3i+4h1+4s1+3h2+1s2+2h3+2s3-8f;hardcore;6,06;5-011;5-011.png
+MS012;A1. Ruboy & Fini - Bazans World;Ruboy & Fini - Spoz y Mina;4i+4h1+5s1+4h2+2s2+4h3+5s3-8f;melodia;4,70;5-012;5-012.png
+MS012;B1. Ruboy &  Fini - Resa-K;Ruboy & Fini - Spoz y Mina;6i+10h1+8s1-8f;base;4,70;5-012;5-012.png
+MS012;A2. Ruboy &  Fini - Lucifer;Ruboy & Fini - Spoz y Mina;"2i+4h1+(2+8""+5)s1+4h2+2s2+4h3+(2+16""+3)s3-8f";melodia;4,08;5-012;5-012.png
+MS012;B2. Sami & Q-byk - Pure Heart;Ruboy & Fini - Spoz y Mina;"2i+4h1+(2+4""+2)s1+4h2+2s2+4h3+6s3-8f";melodia;1,74;5-012;5-012.png
+MS013;A1. Javi Guerrero & Jardi - Nobody Is Guilty;Msk Makina - Friends EP Vol 2;"4i+4h1+(8""+5)s1+6h2+2s2+6h3+2s3-8f";cantada;6,08;5-013;5-013.png
+MS013;A2. P-Ke & Danuki - Beyond Known Space;Msk Makina - Friends EP Vol 2;"4i+4h1+(8""+4+16""+4)s1+4h2+3s2-8f";melodia;2,94;5-013;5-013.png
+MS013;B1. Sami & Q-byk - Closed Fussions;Msk Makina - Friends EP Vol 2;"4i+4h1+(2+8""+3)s1+4h2+2s2+4h3+4s3-8f";melodia;2,94;5-013;5-013.png
+MS013;B2. Sami & Q-Byk - Ministers Of Sound;Msk Makina - Friends EP Vol 2;"2i+4h1+(1+16"")s1+4h2+2s2-8f";base;1,76;5-013;5-013.png
+MS014;A1. Ratatouille;DJ Caësar 9114 Vol 6 - Ratatouille;2i+3h1+2s1+4h2+2s2+2h3+6s3-8f;melodia;3,02;5-014;5-014.png
+MS014;A2. Phoenix;DJ Caësar 9114 Vol 6 - Ratatouille;2i+4h1+3s1+8h2+6s2-8f;melodia;3,68;5-014;5-014.png
+MS014;B1. Beat The System;DJ Caësar 9114 Vol 6 - Ratatouille;2i+6h1+4s1+4h2+2s2+4h3+6s3-8f;melodia;2,88;5-014;5-014.png
+MS014;B2. Warzone;DJ Caësar 9114 Vol 6 - Ratatouille;4i+6h1+4s1+4h2+2s2+4h3+6s3-8f;base;4,18;5-014;5-014.png
+MS015;A1. NaKaN;DJ Pito NKN vs Ruboy - Sinestesia;2i+6h1+4s1+4h2+2s2+6h3+6s3-8f;melodia;4,18;5-015;5-015.png
+MS015;A2. Sinestesia;DJ Pito NKN vs Ruboy - Sinestesia;"3i+4h1+(2+8""+5)s1+4h2+2s2+4h3+2s3-8f";melodia;6,08;5-015;5-015.png
+MS015;B1. Cherries Let's Go;DJ Pito NKN vs Ruboy - Sinestesia;4i+4h1+4s1+4h2+2s2+4h3+6s3-8f;base;4,22;5-015;5-015.png
+MS015;B2. Rendez-vous IV By NaKaN;DJ Pito NKN vs Ruboy - Sinestesia;"2i+4h1+4s1+8h2+2s2+4h3+(3+16""+2)s3-10f";melodia;4,22;5-015;5-015.png
+MS016;A1. Game over 3;Buenri with Ruboy - Game Over 3;"4i+6h1+(16""+6)s1+6h2+(12""+28""+8"")s2-6f";melodia;2,86;5-016;5-016.png
+MS016;A2. Base Over;Buenri with Ruboy - Game Over 4;4i+6h1+2s1+8h2+1s2-8f;base;2,84;5-016;5-016.png
+MS016;B1. Game Over I - Vibrations;Buenri with Ruboy - Game Over 5;2i+4h1+4s1+6h2+4s2-12f;melodia;3,42;5-016;5-016.png
+MS016;B2. Game Over II - Start;Buenri with Ruboy - Game Over 6;4i+6h1+3s1+4h2+2s2+2h3+6s3-10f;melodia;5,90;5-016;5-016.png
+MS017;A1. New Hardcore 3;DJ Ruboy & DJ Plus feat Isolda - New Hardcore 3;"4i+4h1+(16""+12)s1+4h2+2s2-8f";melodia;2,82;5-017;5-017.png
+MS017;A2. Iron Base;DJ Ruboy & DJ Plus feat Isolda - New Hardcore 3;4i+4h1+2s1+4h2+2s2-8f;base;4,04;5-017;5-017.png
+MS017;B1. New Hardcore 1;DJ Ruboy & DJ Plus feat Isolda - New Hardcore 3;2i+8h1+12s1-12f;melodia;-0,12;5-017;5-017.png
+MS017;B2. New Hardcore 2;DJ Ruboy & DJ Plus feat Isolda - New Hardcore 3;4i+4h1+12s1+6h2+2s2-8f;melodia;5,94;5-017;5-017.png
+MS018;A1. Other Side (X-Centrik);Ruboy Records & Pure Makina - Portal Makina EP 2;"7i+6h1+4s1+(6+8""+2)h2+(4""+4)s2-6f";cantada;2,96;5-018;5-018.png
+MS018;A2. Ruboy & Xavi Bcn - Last Requiem;Ruboy Records & Pure Makina - Portal Makina EP 2;"2i+4h1+(1+16""+8)s1+4h2+2s2-8f";melodia;2,94;5-018;5-018.png
+MS018;A3. Ruboy - Y Voló;Ruboy Records & Pure Makina - Portal Makina EP 2;6i+4h1+2s1-(4+1)f;base;2,84;5-018;5-018.png
+MS018;B1. Ruboy vs Bertus - Music To My Friends;Ruboy Records & Pure Makina - Portal Makina EP 2;"4i+6h1+(8""+4)s1+4h2+2s2+6h3+2s3-8f";melodia;4,22;5-018;5-018.png
+MS018;B2. Ruboy vs Aier - Two Skeletons;Ruboy Records & Pure Makina - Portal Makina EP 2;"(2+8""+2)i+4h1+5s1+4h2+2s2+6h3+4s3-8f";melodia;3,08;5-018;5-018.png
+MS019;A1. Rubopy vs Counter  - Ride on the stars;Ruboy vs DJ Counter - Ride On The Stars;"4i+6h1+(16""+6)s1+4h2+2s2+4h3+4s3-8f";melodia;2,80;5-019;5-019.png
+MS019;A2. Quantum Base;Ruboy vs DJ Counter - Ride On The Stars;2i+4h1+4s1+4h2+6s2-8f;base;2,90;5-019;5-019.png
+MS019;B1. Ruboy vs Counter - Return To Harmony;Ruboy vs DJ Counter - Ride On The Stars;2i+6h1+4s1+4h2+2s2+6h3+4s3-8f;melodia;4,22;5-019;5-019.png
+MS019;B2. Ruboy vs shock - Chernobil;Ruboy vs DJ Counter - Ride On The Stars;"2i+4h1+2s1+4h2+(2+8""+8)s2+4h3+2s3-7f";melodia;3,02;5-019;5-019.png
+MS020;A1. Chasis - Back To The Roots;Chasis - Back To The Roots;"2i+4h1+(8""+5)s1+4h2+2s2+2h3+2s3-8f";melodia;6,22;5-020;5-020.png
+MS020;A2. Chasis - Back To The Roots (Without Voice);Chasis - Back To The Roots;"2i+4h1+(8""+5)s1+4h2+2s2+2h3+2s3-8f";melodia;6,00;5-020;5-020.png
+MS020;B1. Chasis - The Drift;Chasis - Back To The Roots;2i+4h1+3s1+4h2+4s2-8f;jumper;12,76;5-020;5-020.png
+MS020;B2. Ricardo F & 2 Worlds - Rhapsody;Chasis - Back To The Roots;"2i+4h1+(8""+6)s1+4h2+(1+8"")s2+(1+24"")h3+2s3-6f";melodia;9,38;5-020;5-020.png
+MS021;A1. Starting Now;DJ Caësar 9114 Vol 7 - Start;4i+4h1+2s1+4h2+4s2-6f;cantada;4,08;5-021;5-021.png
+MS021;A2. Tremendo;DJ Caësar 9114 Vol 7 - Start;2i+6h1+4s1+4h2+1s2+2h3+3s3-6f;melodia;4,04;5-021;5-021.png
+MS021;B1. Misterio;DJ Caësar 9114 Vol 7 - Start;2i+6h1+4s1+4h2+2s2+2h3+4s3-8f;melodia;1,68;5-021;5-021.png
+MS021;B2. Stylo Base;DJ Caësar 9114 Vol 7 - Start;4i+6h1+1s1+6h2+7s2-8f;base;2,76;5-021;5-021.png
+MS022;A1. Ruboy Vs Xeps - Just Can't Stop;Ruboy vs Xeps - Party Coordinates;4i+4h1+4s1+4h2+2s2+4h3+2s3-8f;melodia;4,42;5-022;5-022.png
+MS022;A2. Ruboy Vs Xeps - Baso-T;Ruboy vs Xeps - Party Coordinates;2i+6h1+4s1+4h2+6s2-8f;base;4,96;5-022;5-022.png
+MS022;B1. Ruboy Vs Xeps - Prezioso;Ruboy vs Xeps - Party Coordinates;"2i+6h1+(16""+4)s1+8h2+2s2-8f";melodia;5,72;5-022;5-022.png
+MS022;B2. Ruboy Vs Xeps - Ho Whao 2;Ruboy vs Xeps - Party Coordinates;2i+6h1+4s1+4h2+2s2+4h3+2s3-8f;melodia;5,14;5-022;5-022.png
+MS023;A1. Freddy & Melocko - Ki Yu Harmony;Various - La Makina Que Nos Pario Vol 2;2i+10h1+5s1+4h2+2s2+4h3+2s3-8f;melodia;2,90;5-023;5-023.png
+MS023;A2. A-Light & Garrys - LMQNP Base;Various - La Makina Que Nos Pario Vol 2;2i+4h1+4s1+8h2+2s2-8f;base;3,02;5-023;5-023.png
+MS023;B1. Bastix & Glass - Glasstix;Various - La Makina Que Nos Pario Vol 2;"4i+6h1+(2+16""+4)s1+(4+8""+4)h2+4s2-8f";melodia;3,22;5-023;5-023.png
+MS023;B2. LMQNP - Full Equip Base;Various - La Makina Que Nos Pario Vol 2;4i+4h1+4s1+4h2+6s2-8f;base;3,18;5-023;5-023.png
+MS024;A1. Hell Song;Akuma No Dj's - Made In Hell;"4i+4h1+(16""+6)s1+8h2+2s2-8f";melodia;3,02;5-024;5-024.png
+MS024;A2. Hell Base;Akuma No Dj's - Made In Hell;4i+4h1+4s1+4h2+2s2+4h3+6s3-8f;base;3,12;5-024;5-024.png
+MS024;B1. Hell Fussion (Dj Xory & DJ Fini Bass Fussion Tribute);Akuma No Dj's - Made In Hell;4i+4h1+4s1+4h2+8s2-8f;base;2,86;5-024;5-024.png
+MS024;B2. The Journey;Akuma No Dj's - Made In Hell;4i+4h1+4s1+4h2+2s2+4h3+4s3-9f;melodia;-13,50;5-024;5-024.png
+MS025;A1. Ruboy vs Tanki & Osram - Liquid Silence;Various - Ruboy Collection;Proximamente;cantada;0,00;5-025;5-025.png
+MS025;A2. DJ Tampo & K-rlo-S DJ - La Niña Mecanica;Various - Ruboy Collection;Proximamente;melodia;0,00;5-025;5-025.png
+MS025;B1. Ruboy & John Brown - Imboka;Various - Ruboy Collection;Proximamente;melodia;0,00;5-025;5-025.png
+MS025;B2. Ruboy - Error 41;Various - Ruboy Collection;Proximamente;melodia;0,00;5-025;5-025.png
+MS026;A1. Keeping Makina Alive;Makineros 90's - Makineros 90's Vol.1;Proximamente;cantada;0,00;5-026;5-026.png
+MS026;B1. Makina Rising;Makineros 90's - Makineros 90's Vol.1;Proximamente;cantada;0,00;5-026;5-026.png
+MS026;B2. Basesina;Makineros 90's - Makineros 90's Vol.1;Proximamente;base;0,00;5-026;5-026.png
+MS027;A1. Ruboy vs DJ Nau - Join Me;Ruboy vs DJ Nau - Join Me;Proximamente;cantada;0,00;5-027;5-027.png
+MS027;A2. Ruboy vs DJ Nau - KM X;Ruboy vs DJ Nau - Join Me;Proximamente;melodia;0,00;5-027;5-027.png
+MS027;B1. Ruboy vs DJ Nau - Hyperbase 2025;Ruboy vs DJ Nau - Join Me;Proximamente;base;0,00;5-027;5-027.png
+MS027;B2. DaGa vs DJ Nau - Energize;Ruboy vs DJ Nau - Join Me;Proximamente;melodia;0,00;5-027;5-027.png
